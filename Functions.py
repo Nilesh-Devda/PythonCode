@@ -3,3 +3,9 @@ def my_func(name):
 
 a = my_func('India')
 print(a)
+
+def Square(num):
+    return num**2
+
+b = Square(5)
+print(b)
